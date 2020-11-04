@@ -43,3 +43,6 @@ Hver husstand med garasje skal betale kr 1200,- pr. år til sitt garasjelag. Det
 Lader du elbil i garasjen må du lese av strøm ***minst en gang pr. halvår***. Forbruket skal registreres i [dette skjemaet](https://docs.google.com/forms/d/e/1FAIpQLSdTpdp8wu4aXWYwdSKjINeNtSKpoPs93_Bnnqeavd31EkTJkQ/viewform).
 
 Pengene settes inn på kontoen til garasjelaget du tilhører.
+
+For å regne ut forbruket ditt, tar du utgangspunkt i gjennomsnittspris på strøm pr. kw/h (strøm + nettleie).
+Kontakt kasserer om du er usikker.
