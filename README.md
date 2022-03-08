@@ -11,7 +11,7 @@ Garasjelag Felt F på [Facebook](https://www.facebook.com/groups/172748442751030
 
 | Rolle | Navn | Husnummer |
 | - | - | - |
-| Leder | Elin Carlsen | 83A |
+| Leder |  |  |
 | Kasserer | Erik Kjosbakken | 73 |
 | Styremedlem | Camilla Sjøvold | 123 |
 | Styremedlem | John Johansen | 119 | 
