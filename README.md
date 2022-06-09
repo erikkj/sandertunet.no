@@ -11,9 +11,9 @@ Garasjelag Felt F på [Facebook](https://www.facebook.com/groups/172748442751030
 
 | Rolle | Navn | Husnummer |
 | - | - | - |
-| Leder |  |  |
+| Leder | Geir Simen Engh | 71 |
 | Kasserer | Erik Kjosbakken | 73 |
-| Styremedlem | Camilla Sjøvold | 123 |
+| Styremedlem | Jon Sand | 131 |
 | Styremedlem | John Johansen | 119 | 
 
 ## Innbetalinger
