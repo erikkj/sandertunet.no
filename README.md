@@ -22,13 +22,13 @@ Garasjelag Felt F på [Facebook](https://www.facebook.com/groups/172748442751030
 
 | Beskrivelse | Beløp | Konto |
 | --- | --: | --- |
-| Fellesutgifter | 4 800 | Felleskonto |
+| Fellesutgifter | 6 000 | Felleskonto |
 | Garasje | 1200 | Garasjelag for ditt felt |
 | **Sum** | **6 000** | |
 
 ### Fellesutgifter
-Hver husstand skal betale kr 400 pr. mnd. Dette dekker månedsavgift på kr 300, og vedklikeholdsfond på kr 100.
-Husstanden må selv sørge for at det årlig blir betalt inn **kr 4 800** til felleskontoen vår.
+Hver husstand skal betale kr 500 pr. mnd. Dette dekker månedsavgift på kr 400, og vedklikeholdsfond på kr 100.
+Husstanden må selv sørge for at det årlig blir betalt inn **kr 6 000** til felleskontoen vår.
 
 ### Garasjelag
 Hver husstand med garasje skal betale kr 1200,- pr. år til sitt garasjelag. Dette dekker strøm til lys og forsikringer. Pengene skal inn på kontoen til garasjelaget du tilhører.
