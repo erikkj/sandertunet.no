@@ -11,10 +11,10 @@ Garasjelag Felt F på [Facebook](https://www.facebook.com/groups/172748442751030
 
 | Rolle | Navn | Husnummer |
 | - | - | - |
-| Leder og kasserer | Erik Kjosbakken | 73 |
-| Nestleder | Steve Kristiansen | 77 |
-| Styremedlem | Bjørn Buller | 111 |
-| Styremedlem | Silje Amundsen | 129 | 
+| Leder | Steve Kristiansen | 77 |
+| Nestleder | Bjørn Buller | 111 |
+| Kasserer | Erik Kjosbakken | 73 |
+| Styremedlem | Celine Bisgaard Thuesen | 121 | 
 
 ## Innbetalinger
 
@@ -22,13 +22,13 @@ Garasjelag Felt F på [Facebook](https://www.facebook.com/groups/172748442751030
 
 | Beskrivelse | Beløp | Konto |
 | --- | --: | --- |
-| Fellesutgifter | 6 000 | Felleskonto |
+| Fellesutgifter | 7200 | Felleskonto |
 | Garasje | 1200 | Garasjelag for ditt felt |
-| **Sum** | **7 200** | |
+| **Sum** | **8 400** | |
 
 ### Fellesutgifter
-Hver husstand skal betale kr 500 pr. mnd. Dette dekker månedsavgift på kr 400, og vedklikeholdsfond på kr 100.
-Husstanden må selv sørge for at det årlig blir betalt inn **kr 6 000** til felleskontoen vår.
+Hver husstand skal betale kr 600 pr. mnd. Dette dekker månedsavgift på kr 500, og vedklikeholdsfond på kr 100.
+Husstanden må selv sørge for at det årlig blir betalt inn **kr 7 200** til felleskontoen vår.
 
 ### Garasjelag
 Hver husstand med garasje skal betale kr 1200,- pr. år til sitt garasjelag. Dette dekker strøm til lys og forsikringer. Pengene skal inn på kontoen til garasjelaget du tilhører.
