@@ -48,3 +48,6 @@ Pengene settes inn på kontoen til garasjelaget du tilhører.
 
 For å regne ut forbruket ditt, tar du utgangspunkt i gjennomsnittspris på strøm pr. kw/h (strøm + nettleie).
 Kontakt kasserer om du er usikker.
+
+## Oversiktskart
+![Oversiktskart](images/Feltoversikt.png)
